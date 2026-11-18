@@ -23,7 +23,7 @@ export type FraseP = {
   iconeEm?: Q;
   /** barra que enche (ex.: "4 minutos") */
   barraEm?: Q;
-  /** caixa tracejada abaixo das linhas (ex.: "Sarasota: sem perfil próprio no Google") */
+  /** caixa tracejada abaixo das linhas (ex.: "Cidade Exemplo: sem perfil próprio no Google") */
   tracejado?: {texto: string; em: Q; size?: number; mt?: number};
 };
 

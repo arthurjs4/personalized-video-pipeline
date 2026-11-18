@@ -19,7 +19,7 @@ export type Gancho = {
   numero?: string;
   /** o fato em poucas palavras ("131 avaliações no Google") */
   texto: string;
-  /** linha menor de apoio ("busca: accountant Marlborough") */
+  /** linha menor de apoio ("busca: accountant Cidade Exemplo") */
   detalhe?: string;
   icone?: IconName;
   /** o achado (a dor): borda e número em vermelho suave */
@@ -50,7 +50,7 @@ export const Abertura: ModView<AberturaP> = ({p, ate}) => {
   const t = useT();
   const q = useQ();
   const g0 = q(p.ganchos[0].em);
-  const yuriOut = 1 - prog(t, g0 - 0.35, 0.3);
+  const avatarOut = 1 - prog(t, g0 - 0.35, 0.3);
   return (
     <>
       <Telas
@@ -103,7 +103,7 @@ export const Abertura: ModView<AberturaP> = ({p, ate}) => {
           },
         ]}
       />
-      <div style={{opacity: yuriOut}}>
+      <div style={{opacity: avatarOut}}>
         <Avatar x={270} y={1300} size={200} start={q(p.aquiEm!) - 0.15} nome="Ana" papel="Agência Exemplo" />
       </div>
     </>

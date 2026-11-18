@@ -116,7 +116,7 @@ export type ModId = Modulo['id'];
 
 /** Um vídeo é uma lista de cenas; cada cena é uma lista de módulos que entram um depois do outro. */
 export type Cena = {
-  /** rótulo do topo: "// 05 · o mapa de Fort Myers" */
+  /** rótulo do topo: "// 05 · o mapa de Cidade Exemplo" */
   rotulo: string;
   /** cena com dado que muda: mostra "dados de [dataBusca]" */
   datado?: boolean;
