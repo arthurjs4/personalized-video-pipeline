@@ -1,0 +1,14 @@
+node_modules/
+out/
+narr/
+voz/*.mp3
+voz/*.wav
+video/public/*.wav
+video/public/*.mp3
+video/out/
+.env
+*.env
+!.env.example
+venv/
+__pycache__/
+*.log

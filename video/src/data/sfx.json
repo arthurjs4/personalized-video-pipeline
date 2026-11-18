@@ -1,0 +1,135 @@
+[
+ {
+  "cena": 1,
+  "em": 0,
+  "tipo": "swish"
+ },
+ {
+  "cena": 1,
+  "em": "Carla",
+  "tipo": "entra"
+ },
+ {
+  "cena": 1,
+  "em": "Aqui-0.1",
+  "tipo": "popAvatar"
+ },
+ {
+  "cena": 1,
+  "em": "Agência",
+  "tipo": "entra"
+ },
+ {
+  "cena": 1,
+  "em": "Nota cinco-0.3",
+  "tipo": "sai"
+ },
+ {
+  "cena": 1,
+  "em": "Nota cinco-0.05",
+  "tipo": "cartao",
+  "f": 700
+ },
+ {
+  "cena": 1,
+  "em": "Primeiro no mapa-0.05",
+  "tipo": "cartao",
+  "f": 760
+ },
+ {
+  "cena": 1,
+  "em": "Mas o site-0.05",
+  "tipo": "impacto",
+  "f": 820
+ },
+ {
+  "cena": 1,
+  "em": "No fim-0.3",
+  "tipo": "sai"
+ },
+ {
+  "cena": 1,
+  "em": "o que falta",
+  "tipo": "entra"
+ },
+ {
+  "cena": 1,
+  "em": "o que falta+0.2",
+  "tipo": "cartao"
+ },
+ {
+  "cena": 1,
+  "em": "mais fácil",
+  "tipo": "sino",
+  "trim": -3
+ },
+ {
+  "cena": 2,
+  "em": "já construíram",
+  "tipo": "entra"
+ },
+ {
+  "cena": 2,
+  "em": "está pronta",
+  "tipo": "entra"
+ },
+ {
+  "cena": 2,
+  "em": "A reputação-0.1",
+  "tipo": "pop",
+  "f": 1000
+ },
+ {
+  "cena": 2,
+  "em": "A reputação-0.3",
+  "tipo": "sai"
+ },
+ {
+  "cena": 3,
+  "em": "Prometi",
+  "tipo": "entra"
+ },
+ {
+  "cena": 3,
+  "em": "o que falta",
+  "tipo": "entra"
+ },
+ {
+  "cena": 3,
+  "em": "mais fácil",
+  "tipo": "sino",
+  "trim": -3
+ },
+ {
+  "cena": 3,
+  "em": "Mapa do Google-0.3",
+  "tipo": "sai"
+ },
+ {
+  "cena": 3,
+  "em": "Mapa do Google",
+  "tipo": "cartao"
+ },
+ {
+  "cena": 3,
+  "em": "te mostro",
+  "tipo": "pop"
+ },
+ {
+  "cena": 3,
+  "em": "terça",
+  "tipo": "toc"
+ },
+ {
+  "cena": 3,
+  "em": "quinta",
+  "tipo": "toc",
+  "f": 820
+ },
+ {
+  "cena": 3,
+  "em": "É só",
+  "tipo": "tique",
+  "f": 2400
+ }
+]

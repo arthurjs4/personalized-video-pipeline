@@ -1,0 +1,24 @@
+{
+ "duration": 20.0,
+ "lead": 0.25,
+ "gap": 0.15,
+ "tail": 2.0,
+ "scenes": [
+  {
+   "id": "cena1",
+   "start": 0.25,
+   "end": 8.0
+  },
+  {
+   "id": "cena2",
+   "start": 8.15,
+   "end": 13.0
+  },
+  {
+   "id": "cena3",
+   "start": 13.15,
+   "end": 20.0
+  }
+ ],
+ "words": []
+}
